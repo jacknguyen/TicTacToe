@@ -93,6 +93,10 @@ Gameboard initial look
 	background: url('../img/grass-empty-heart.png') no-repeat;
 }
 
+#p1:hover:before {
+
+}
+
 /* Media Queries */
 
 /*iPhone*/
